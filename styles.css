@@ -1,0 +1,40 @@
+*{
+    text-align: center;
+    font-size: large;
+    font-family:'Courier New', Courier, monospace;
+}
+
+#title {
+    font-size: xx-large;
+    font-weight: 500;
+    padding: 20px 20px;
+}
+.main {
+    border: 2px solid bisque; /* Border around the container */
+    border-radius: 5px;
+    width: auto;
+    padding: 20px 10px; /* Add some padding to separate the content from the border */
+    background-color:bisque;
+    max-width: 500px; /* Set a maximum width for the container */
+    margin: 0 auto; /* Center the container horizontally */
+    margin-top: 200px;
+}
+
+#clock {
+    border: 3px solid rgb(54, 50, 50);
+    border-radius: 5px;
+    width: 150px;
+    margin: auto;
+    font-size: x-large;
+    color: black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#start, #stop, #reset {
+    background-color:coral;
+    box-shadow: 2px 3px #a29494;
+    border-radius: 3px;
+    padding: 5px 10px;
+    margin-top: 10px;
+}
+
+                         
